@@ -1,0 +1,8 @@
+{
+  "name": "French Oral Exam Prep",
+  "description": "A flashcard app designed to help Tim study for his French oral exam with listening comprehension, hints, and personalized answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
